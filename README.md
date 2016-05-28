@@ -1,7 +1,10 @@
 # UnderArmourAlarm
-This (failed?) project is trying to find a quarterly report (Q2 2016) from Under Armour faster than everyone else. 
+This (failed?) project is trying to find a new quarterly report (Q2 2016) from Under Armour faster than everyone else (so that Trey can make more money).
+The problem is it is pretty slow to interogate URL using urllib... 
 
 ###########################################################
+#
+#   http://investor.underarmour.com/releasedetail.cfm?ReleaseID=??????
 #
 #   Q2 2016?
 #       ??????
