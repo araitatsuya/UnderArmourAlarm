@@ -1,6 +1,6 @@
 # UnderArmourAlarm
 This (failed?) project is trying to find a new quarterly report (Q2 2016) from Under Armour faster than everyone else (so that Trey can make more money).
-The problem is it is pretty slow to interogate URL using urllib... 
+The problem is urllib is pretty slow to interogeate through 10,000 URL one by one... 
 
 ###########################################################
 #
